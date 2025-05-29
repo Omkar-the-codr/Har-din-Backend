@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+coverage/
+.env
+.vscode/
+.DS_Store
+# Logs
+logs/
+npm-debug.log*
+# Dependency directories
+jspm_packages/
+# Optional npm cache directory
